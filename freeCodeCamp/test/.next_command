@@ -235,3 +235,4 @@ __vsc_prompt_cmd_original
 find client/assets/fonts
 find
 rm --help
+rm -r fonts
