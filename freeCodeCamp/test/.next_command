@@ -228,3 +228,5 @@ ls --color=auto
 find client/assets/fonts
 cd ../../..
 find client/assets/fonts
+touch client/assets/fonts/lato-bold.woff
+touch client/assets/fonts/lato-bold.ttf
