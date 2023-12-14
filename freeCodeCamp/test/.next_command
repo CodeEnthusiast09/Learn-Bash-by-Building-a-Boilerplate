@@ -213,3 +213,8 @@ mv CodeRoad.svg client/assets/icons
 mv freeCodeCamp.svg client/assets/icons
 find
 mkdir client/assets/fonts
+cd client
+cd assets
+cd fonts
+touch roboto-bold.woff
+touch client/assets/fonts/roboto-bold.woff
