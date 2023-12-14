@@ -188,3 +188,5 @@ cd ../../..
 cd images
 __vsc_prompt_cmd_original
 ls --color=auto
+__vsc_prompt_cmd_original
+mv header.png ..
