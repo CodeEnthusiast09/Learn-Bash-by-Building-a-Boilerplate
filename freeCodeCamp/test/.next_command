@@ -103,3 +103,4 @@ ls --color=auto
 command --help
 command ls
 ls --color=auto --help
+ls --color=auto -a
