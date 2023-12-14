@@ -89,3 +89,4 @@ ls --color=auto
 cleaar
 clear
 mkdir website
+ls --color=auto
