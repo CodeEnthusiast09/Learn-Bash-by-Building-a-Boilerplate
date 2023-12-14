@@ -44,3 +44,5 @@ clear
 "print working directory"
 pwd
 ls --color=auto
+test
+cd test
