@@ -171,3 +171,4 @@ touch styles.css
 mv styles.css client/src
 find
 find client
+find --help
