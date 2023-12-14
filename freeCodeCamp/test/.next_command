@@ -220,3 +220,11 @@ touch roboto-bold.woff
 touch client/assets/fonts/roboto-bold.woff
 cd ../../..
 touch client/assets/fonts/roboto-light.woff
+find -name client/assets/fonts
+find -name fonts
+cd client/assets/fonts
+find
+ls --color=auto
+find client/assets/fonts
+cd ../../..
+find client/assets/fonts
