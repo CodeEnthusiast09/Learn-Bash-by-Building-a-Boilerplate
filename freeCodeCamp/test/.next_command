@@ -237,3 +237,6 @@ find
 rm --help
 rm -r fonts
 ls --color=auto
+mkdir package.json
+touch package.jsom
+touch package.json
