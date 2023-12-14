@@ -43,3 +43,4 @@ clear
 "print working directory" freeCodeCamp
 "print working directory"
 pwd
+ls --color=auto
